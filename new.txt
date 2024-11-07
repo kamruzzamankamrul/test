@@ -1,2 +1,3 @@
 I am adding here some text for testing purpose.
 This text is adding to the feature1.
+This line is adding for GitHub merge.
